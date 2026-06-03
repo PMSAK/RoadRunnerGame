@@ -38,7 +38,7 @@ During the development of this project, I gained practical experience with:
 - Debugging gameplay mechanics
 
 
-- ## Future Improvements
+## Future Improvements
 Potential features I may add in future updates:
 
 - Multiple levels
